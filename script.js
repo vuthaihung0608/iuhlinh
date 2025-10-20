@@ -42,11 +42,11 @@ function resizeYesButton() {
 
 function generateMessage(noCount) {
   const messages = [
-    "Không Bao Giờ",
-    "Anh bicc lỗi rồi ạa",
-    "Mong bé tha lỗi choo anhh :((",
-    "Anhh saii rồi , anhh đáng trách ạ",
-    "Bé đừng giận anhh nữa nhoo",
+    "Đi màaaaaa",
+    "Năn nỉiii",
+    "huhuhuhu em chạ thương anh",
+    "em hết iêu anh gòiiii",
+    "huhuuhuhuhuh",
     "Anhhh iu bé nhắm nhunnn đóoooo",
   ];
 
