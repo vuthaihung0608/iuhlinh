@@ -27,7 +27,7 @@ noButton.addEventListener("click", function () {
 });
 
 function handleYesClick() {
-  titleElement.innerHTML = "Anh iu bé ,Anh hứa hongg làm bé buồn nữa đouuu :3";
+  titleElement.innerHTML = "Anh iêu emmmm. Trên thiên đường có 10 thiên thần: 5 thiên thần đang chơi đùa, 4 thiên thần đang nói chuyện và 1 thiên thần đang đọc lời chúc này. Chúc thiên thần của anh vui vẻ, hạnh phúc và ý nghĩa trong ngày 20/10 nhiéeeeee!";
   buttonsContainer.classList.add("hidden");
   changeImage("yes");
 }
